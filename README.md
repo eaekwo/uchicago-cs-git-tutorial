@@ -1,1 +1,1 @@
-emmanuela # uchicago-cs-git-tutorial
+Adaeze Ekwo, CNET: emmanuela # uchicago-cs-git-tutorial
